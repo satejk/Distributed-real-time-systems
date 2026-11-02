@@ -2,4 +2,4 @@
 
 This repo is about my Distributed real time systems project.
 
-https://predatorxNaN.gitbook.io/predatorNaNdocs
+aHR0cHM6Ly9wcmVkYXRvcnhOYU4uZ2l0Ym9vay5pby9wcmVkYXRvck5hTmRvY3M=
