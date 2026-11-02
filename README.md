@@ -2,4 +2,4 @@
 
 This repo is about my Distributed real time systems project.
 
-The code is realeased under  GPL.
+https://predatorxNaN.gitbook.io/predatorNaNdocs
